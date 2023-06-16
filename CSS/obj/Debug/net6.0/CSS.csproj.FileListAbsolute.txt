@@ -1,0 +1,15 @@
+D:\Code C#\CSS\CSS\bin\Debug\net6.0\CSS.exe
+D:\Code C#\CSS\CSS\bin\Debug\net6.0\CSS.deps.json
+D:\Code C#\CSS\CSS\bin\Debug\net6.0\CSS.runtimeconfig.json
+D:\Code C#\CSS\CSS\bin\Debug\net6.0\CSS.dll
+D:\Code C#\CSS\CSS\bin\Debug\net6.0\CSS.pdb
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.csproj.AssemblyReference.cache
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.AssemblyInfoInputs.cache
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.AssemblyInfo.cs
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.csproj.CoreCompileInputs.cache
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.dll
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\refint\CSS.dll
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.pdb
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\CSS.genruntimeconfig.cache
+D:\Code C#\CSS\CSS\obj\Debug\net6.0\ref\CSS.dll
